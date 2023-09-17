@@ -1,4 +1,4 @@
-![image](https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/assets/103171417/ab5eea6e-e71a-45d0-844b-6e5a01af0434)Hi 🙋‍♂️ My name is Mahdi Razzaghi
+Hi 🙋‍♂️ My name is Mahdi Razzaghi
 ======
 Front-End Developer
 
@@ -22,10 +22,13 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
             <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
              <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/tailwindcss.svg" width="36" height="36" alt="tailwindcss" /></a>
-             <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/fddc4e0b2439d71efbedcd63751b155235f4e03a/github-svgrepo-com.svg" width="36" height="36" alt="tailwindcss" /></a>
-             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-         <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+             <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/fddc4e0b2439d71efbedcd63751b155235f4e03a/github-svgrepo-com.svg" width="36" height="36" alt="github" /></a>
+              <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/webpack-svgrepo-com.svg" width="36" height="36" alt="webpack" /></a>
+                   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/react-colored.svg" width="36" height="36" alt="React" /></a>
+            <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+                   <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/ant.svg" width="36" height="36" alt="ant js" /></a>
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/9a516b420d947b980f2d581f0c57334e1d8f4646/graphQl.svg" width="36" height="36" alt="graphql" /></a>
 
 </p>
 
