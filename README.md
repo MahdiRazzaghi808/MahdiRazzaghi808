@@ -8,8 +8,7 @@ Front-End Developer
 Frontend Developer with over 1.5 Years experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
 - 🌍  I'm based in Rasht (Iran)
-- 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
-- ✉️  You can contact me at [mahdi_razzaghi@yahoo.com](mahdi_razzaghi@yahoo.com)
+- 🖥️  See my Website [MR](https://mahdirazzaghi808.github.io/personal/)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 
