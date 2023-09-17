@@ -1,9 +1,13 @@
 Hi 🙋‍♂️ My name is Mahdi Razzaghi
 ======
-
 Front-End Developer
 
----
+
+<img align="center" src="https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif" />
+
+
+# About Me
+
 
 Frontend Developer with over 1.5 Years experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
@@ -12,8 +16,6 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 - ✉️  You can contact me at [mahdi_razzaghi@yahoo.com](mahdi_razzaghi@yahoo.com)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
-
-<img align="center" height="300px" src="https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif" />
 
 ### Skills
 
