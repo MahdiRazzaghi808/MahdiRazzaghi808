@@ -18,6 +18,9 @@ Frontend Developer with over 1.5 Years experience in web development using lates
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/5f078584a7113bc5c08dbbb2bd7836624e55756d/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/463481dbf00d1cb38c3f80dbb6023b23ae32278c/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img
+          src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/e74668f11cedd8cecc58f0faaad60303f5f44adb/sass.svg"
+          width="36" height="36" alt="sass" /></a>
             <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
              <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/0c120fe09a295c143df51dd2871fd09c736fd838/tailwindcss.svg" width="36" height="36" alt="tailwindcss" /></a>
              <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/2feecb737852b3de708c06730971c394abc27031/Layer%202.svg" width="36" height="36" alt="github" /></a>
