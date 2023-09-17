@@ -1,4 +1,4 @@
-Hi 🙋‍♂️ My name is Mahdi Razzaghi
+Hi 🙋‍♂️ I'm Mahdi Razzaghi
 ======
 Front-End Developer
 
@@ -35,8 +35,9 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 # Social
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/f08a42820dbc3b6f6926a070c65051c1026a0db8/telegram.svg" width="32" height="32" /></a>
+         <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/f08a42820dbc3b6f6926a070c65051c1026a0db8/instagram.svg" width="32" height="32" /></a>
+          <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiRazzaghi808/MahdiRazzaghi808/f08a42820dbc3b6f6926a070c65051c1026a0db8/linkedin.svg" width="32" height="32" /></a>
  
 </p>
 
