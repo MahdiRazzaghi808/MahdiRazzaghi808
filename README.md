@@ -17,7 +17,7 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 
-### Skills
+# Skills
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -31,7 +31,7 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 
 </p>
 
-### Social
+# Social
 
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
@@ -40,7 +40,7 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
 
-### Support Me
+# Support Me
 
 <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
