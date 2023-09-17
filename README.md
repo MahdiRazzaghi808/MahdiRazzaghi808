@@ -13,7 +13,7 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 
-<img align="center" src="https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif" />
+<img align="center" height="300px" src="https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif" />
 
 ### Skills
 
