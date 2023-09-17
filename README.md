@@ -13,7 +13,7 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 
-<img align="center" src="[https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw01pkz0VQdR0lShDv6gz0VE&ust=1695030167884000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj79MmtsYEDFQAAAAAdAAAAABAJ)" />
+<img align="center" src="[[https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw01pkz0VQdR0lShDv6gz0VE&ust=1695030167884000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj79MmtsYEDFQAAAAAdAAAAABAJ)](https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif?raw=true)" />
 
 ### Skills
 
