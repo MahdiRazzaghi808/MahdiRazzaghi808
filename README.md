@@ -2,10 +2,6 @@ Hi 🙋‍♂️ My name is Mahdi Razzaghi
 ======
 Front-End Developer
 
-
-<img align="center" src="https://github.com/MahdiRazzaghi808/MahdiRazzaghi808/blob/main/banner.gif" />
-
-
 # About Me
 
 
