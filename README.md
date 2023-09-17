@@ -40,6 +40,8 @@ Frontend Developer with over 1.5 Years experience in web designing and UI develo
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
+<a href="" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiRazzaghi808&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=MahdiRazzaghi808&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiRazzaghi808" />
-
+  
+</a>
