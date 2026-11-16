@@ -4,7 +4,7 @@ Front-End Developer
 
 # About Me
 
-Frontend Developer with over 1.5 Years experience in web development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | ReactJS practices . 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+Frontend Developer with over 5 Years experience in web development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | ReactJS practices . 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
 - 🌍  I'm based in Rasht (Iran)
 - 🖥️  See my Website [MR](https://mahdirazzaghi808.github.io/personal/)
